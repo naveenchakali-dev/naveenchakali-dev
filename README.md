@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Naveen Chakali
 
-<!--
-**naveenchakali-dev/naveenchakali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | Aspiring Web Developer & AI/ML Engineer  
+🚀 Passionate about building intelligent, real-world web applications  
+📚 Currently learning Full-Stack Development (MERN) & Machine Learning (Python, TensorFlow)  
+💡 Eager to solve real-world problems through code and innovation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack (Learning & Building With)
+- **Languages:** JavaScript, Python, C++
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, Firebase
+- **AI/ML:** Python, NumPy, Pandas, scikit-learn, TensorFlow
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+
+## 📈 Current Goals
+- 🔨 Build 3-5 high-quality projects for web and AI
+- 📄 Prepare a solid resume + LinkedIn profile
+- 🌐 Launch personal portfolio at [naveenchakali.dev](https://naveenchakali.dev)
+- 💼 Apply for internships and entry-level roles
+
+---
+
+## 📫 How to Reach Me
+- **Email:** naveenchakali.dev@gmail.com
+- **GitHub:** [github.com/naveenchakali-dev](https://github.com/naveenchakali-dev)
+- **LinkedIn:** Coming Soon
