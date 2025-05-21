@@ -27,4 +27,4 @@
 ## 📫 How to Reach Me
 - **Email:** naveenchakali.dev@gmail.com
 - **GitHub:** [github.com/naveenchakali-dev](https://github.com/naveenchakali-dev)
-- **LinkedIn:** Coming Soon
+- **LinkedIn:** https://www.linkedin.com/in/naveenchakali/
